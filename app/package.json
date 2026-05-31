@@ -1,0 +1,12 @@
+{
+  "name": "it-landscape-cicd",
+  "version": "1.0.0",
+  "description": "CI/CD demo app voor IT Landscape",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
